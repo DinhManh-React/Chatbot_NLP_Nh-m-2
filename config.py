@@ -21,7 +21,7 @@ class Config:
     TOP_K_RESULTS = 5
     
     # Tham số LLM (nếu dùng)
-    LLM_MODEL = "Qwen/Qwen2.5-1.5B-Instruct"
+    LLM_MODEL = "Qwen/Qwen2.5-0.5B-Instruct"
     TEMPERATURE = 0.3
     MAX_NEW_TOKENS = 256
     
