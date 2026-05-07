@@ -14,18 +14,6 @@ Legal Agent là một hệ thống trợ lý ảo thông minh chuyên tư vấn 
 - Cung cấp câu trả lời chính xác, nhanh chóng thay vì đọc toàn bộ văn bản
 - Hỗ trợ người dùng cuối (doanh nghiệp, cá nhân) trong việc tìm hiểu thủ tục đăng ký kinh doanh
 - Ứng dụng các công nghệ AI hiện đại như RAG (Retrieval-Augmented Generation), Hybrid Search, Reranking
-  
----
-
-# Thành viên nhóm
-
-| STT | Họ tên           | Mã Sinh Viên |
-| --- | ---------------- | -------------|
-| 1   | Nguyễn Đình Mạnh | 22174600037  |
-| 2   | Lê Văn Khá       | 22174600096  |
-| 3   | Hà Quang Vinh    | 22174600065  |
-| 4   | Lưu Nhật Nam     | 22174600109  |
-| 5   | Đặng Hữu Tâm     | 22174600022  |
 
 ---
 # Tính năng
